@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.exe
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.deps.json
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.runtimeconfig.json
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.runtimeconfig.dev.json
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.dll
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\bin\Debug\netcoreapp3.1\UserSettingsZapper.pdb
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.AssemblyInfo.cs
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.dll
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.pdb
+C:\Users\acer\Desktop\New folder\UserSettingsZapper\UserSettingsZapper\obj\Debug\netcoreapp3.1\UserSettingsZapper.genruntimeconfig.cache

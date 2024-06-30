@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.exe
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.deps.json
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.runtimeconfig.json
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.runtimeconfig.dev.json
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.dll
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\bin\Debug\netcoreapp3.1\UserSettingStorageZapper.pdb
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.AssemblyInfo.cs
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.dll
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.pdb
+C:\Users\acer\Desktop\New folder\UserSettingStorageZapper\UserSettingStorageZapper\obj\Debug\netcoreapp3.1\UserSettingStorageZapper.genruntimeconfig.cache
